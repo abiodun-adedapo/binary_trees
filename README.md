@@ -1025,7 +1025,7 @@ Uncle of 12: (nil)
 alex@/tmp/binary_trees$
 </code></pre>
  ## Collaborators
-Amos Abiodun
-Samuel Senerwa 
+-Amos Abiodun [abiodun-adedapo] (https://github.com/abiodun-adedapo/binary_trees#c---binary-trees)
+-Samuel Senerwa [samuelsenerwa] (https://github.com/samuelsenerwa?tab=repositories)
  
 Copyright © 2023 ALX, All rights reserved.
