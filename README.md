@@ -2,6 +2,10 @@
 ## C - Binary trees
 - C Group project Algorithm Data structure
 
+# Authors
+- Amos Abiodun
+- Samuel Senerwa
+
 
 # Basic Binary Tree
 <pre><code>
